@@ -53,6 +53,4 @@ This code is based on the OpenCV and Mediapipe libraries. Credits to their respe
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Feel free to copy and paste this content into your README file. Remember to adjust any paths, names, or additional information according to your specific project.
